@@ -1,12 +1,0 @@
-
-E
-java:S1604P"(Make this anonymous inner class a lambda(Èú†8µé¥øğ1
-D
-java:S1604g"(Make this anonymous inner class a lambda(Ï¹§8µé¥øğ1
-D
-java:S1604£"(Make this anonymous inner class a lambda(©€8µé¥øğ1
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Çµí‘8®ê¥øğ1
-D
-java:S1075"&Remove this hard-coded path-delimiter.(—¡8Æê¥øğ1
-M	java:S106¦"+Replace this use of System.out by a logger.(î‡ó©ùÿÿÿÿ8Ìê¥øğ1
