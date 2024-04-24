@@ -8,7 +8,7 @@
 使用**AudioDecrypt**在某些场景下文件名会出现[未命名]，像这样子：  
 ![img.png](img.png)
   
-手动更改太慢，所以临时写了一个小工具，用以批量去除：  
+手动更改太慢，所以临时写了一个小工具，用以批量去除([下载传送门](https://github.com/pengweizhong/rename-gadget/releases))：  
 ![img_1.png](img_1.png)  
 
 ## 去除前的效果
